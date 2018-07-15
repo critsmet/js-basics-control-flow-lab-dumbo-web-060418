@@ -10,4 +10,5 @@ function scuberGreetingForFeet(number){
   else {
   response = "No can do."
   }
+  response
 }

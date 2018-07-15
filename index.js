@@ -7,3 +7,4 @@ function scuberGreetingForFeet(number){
   response = "I will gladly take your thirty bucks"
   else 
   response = "No can do."
+}

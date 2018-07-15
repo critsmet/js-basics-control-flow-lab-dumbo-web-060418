@@ -3,6 +3,6 @@ function scuberGreetingForFeet(number){
   let response 
   if (number =< 400)
   response = "This one is on me!"
-  else if (number )
+  else if (number =< 2500 )
   
 }
